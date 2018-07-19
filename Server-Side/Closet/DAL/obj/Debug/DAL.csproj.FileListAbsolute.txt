@@ -1,0 +1,52 @@
+c:\Users\OR\source\repos\Closet\DAL\bin\Debug\DAL.dll
+c:\Users\OR\source\repos\Closet\DAL\bin\Debug\DAL.pdb
+c:\Users\OR\source\repos\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\OR\source\repos\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\Users\OR\source\repos\Closet\DAL\obj\Debug\DAL.dll
+c:\Users\OR\source\repos\Closet\DAL\obj\Debug\DAL.pdb
+C:\try\t\Closet\Closet\DAL\bin\Debug\DAL.dll
+C:\try\t\Closet\Closet\DAL\bin\Debug\DAL.pdb
+C:\try\t\Closet\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\try\t\Closet\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\try\t\Closet\Closet\DAL\obj\Debug\DAL.dll
+C:\try\t\Closet\Closet\DAL\obj\Debug\DAL.pdb
+D:\t\Closet\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\t\Closet\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\t\Closet\Closet\DAL\obj\Debug\DAL.dll
+D:\t\Closet\Closet\DAL\obj\Debug\DAL.pdb
+D:\t\Closet\Closet\DAL\bin\Debug\DAL.dll
+D:\t\Closet\Closet\DAL\bin\Debug\DAL.pdb
+D:\t\Closet\Closet\DAL\bin\Debug\BEL.dll
+D:\t\Closet\Closet\DAL\bin\Debug\BEL.pdb
+C:\Closet\ASP.NET\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Closet\ASP.NET\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Closet\ASP.NET\Closet\DAL\obj\Debug\DAL.dll
+C:\Closet\ASP.NET\Closet\DAL\obj\Debug\DAL.pdb
+C:\Closet\ASP.NET\Closet\DAL\bin\Debug\DAL.dll
+C:\Closet\ASP.NET\Closet\DAL\bin\Debug\DAL.pdb
+C:\Closet\ASP.NET\Closet\DAL\bin\Debug\BEL.dll
+C:\Closet\ASP.NET\Closet\DAL\bin\Debug\BEL.pdb
+D:\newIdea\ASP.NET\Closet\DAL\bin\Debug\DAL.dll
+D:\newIdea\ASP.NET\Closet\DAL\bin\Debug\DAL.pdb
+D:\newIdea\ASP.NET\Closet\DAL\bin\Debug\BEL.dll
+D:\newIdea\ASP.NET\Closet\DAL\bin\Debug\BEL.pdb
+D:\newIdea\ASP.NET\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\newIdea\ASP.NET\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\newIdea\ASP.NET\Closet\DAL\obj\Debug\DAL.dll
+D:\newIdea\ASP.NET\Closet\DAL\obj\Debug\DAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\bin\Debug\DAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\bin\Debug\DAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\bin\Debug\BEL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\bin\Debug\BEL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\obj\Debug\DAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\DAL\obj\Debug\DAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\bin\Debug\DAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\bin\Debug\DAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\bin\Debug\BEL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\bin\Debug\BEL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\obj\Debug\DAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\DAL\obj\Debug\DAL.pdb

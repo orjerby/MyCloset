@@ -1,0 +1,105 @@
+c:\users\or\source\repos\Closet\Closet\bin\Closet.dll.config
+c:\users\or\source\repos\Closet\Closet\bin\Closet.dll
+c:\users\or\source\repos\Closet\Closet\bin\Closet.pdb
+c:\users\or\source\repos\Closet\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\or\source\repos\Closet\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\or\source\repos\Closet\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+c:\users\or\source\repos\Closet\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+c:\users\or\source\repos\Closet\Closet\obj\Debug\Closet.dll
+c:\users\or\source\repos\Closet\Closet\obj\Debug\Closet.pdb
+c:\users\or\source\repos\Closet\Closet\bin\BAL.dll
+c:\users\or\source\repos\Closet\Closet\bin\DAL.dll
+c:\users\or\source\repos\Closet\Closet\bin\BAL.pdb
+c:\users\or\source\repos\Closet\Closet\bin\DAL.pdb
+c:\users\or\source\repos\Closet\Closet\bin\BEL.dll
+c:\users\or\source\repos\Closet\Closet\bin\BEL.pdb
+C:\try\t\Closet\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+C:\try\t\Closet\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+C:\try\t\Closet\Closet\obj\Debug\Closet.dll
+C:\try\t\Closet\Closet\obj\Debug\Closet.pdb
+C:\try\t\Closet\Closet\bin\Closet.dll.config
+C:\try\t\Closet\Closet\bin\Closet.dll
+C:\try\t\Closet\Closet\bin\Closet.pdb
+C:\try\t\Closet\Closet\bin\BAL.dll
+C:\try\t\Closet\Closet\bin\BEL.dll
+C:\try\t\Closet\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\try\t\Closet\Closet\bin\DAL.dll
+C:\try\t\Closet\Closet\bin\BAL.pdb
+C:\try\t\Closet\Closet\bin\BEL.pdb
+C:\try\t\Closet\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\try\t\Closet\Closet\bin\DAL.pdb
+D:\t\Closet\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+D:\t\Closet\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+D:\t\Closet\Closet\obj\Debug\Closet.dll
+D:\t\Closet\Closet\obj\Debug\Closet.pdb
+D:\t\Closet\Closet\bin\Closet.dll.config
+D:\t\Closet\Closet\bin\Closet.dll
+D:\t\Closet\Closet\bin\Closet.pdb
+D:\t\Closet\Closet\bin\BAL.dll
+D:\t\Closet\Closet\bin\BEL.dll
+D:\t\Closet\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\t\Closet\Closet\bin\DAL.dll
+D:\t\Closet\Closet\bin\BAL.pdb
+D:\t\Closet\Closet\bin\BEL.pdb
+D:\t\Closet\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\t\Closet\Closet\bin\DAL.pdb
+C:\Closet\ASP.NET\Closet\bin\Closet.dll.config
+C:\Closet\ASP.NET\Closet\bin\Closet.dll
+C:\Closet\ASP.NET\Closet\bin\Closet.pdb
+C:\Closet\ASP.NET\Closet\bin\BAL.dll
+C:\Closet\ASP.NET\Closet\bin\BEL.dll
+C:\Closet\ASP.NET\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Closet\ASP.NET\Closet\bin\DAL.dll
+C:\Closet\ASP.NET\Closet\bin\BAL.pdb
+C:\Closet\ASP.NET\Closet\bin\BEL.pdb
+C:\Closet\ASP.NET\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Closet\ASP.NET\Closet\bin\DAL.pdb
+C:\Closet\ASP.NET\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+C:\Closet\ASP.NET\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+C:\Closet\ASP.NET\Closet\obj\Debug\Closet.dll
+C:\Closet\ASP.NET\Closet\obj\Debug\Closet.pdb
+D:\newIdea\ASP.NET\Closet\bin\Closet.dll.config
+D:\newIdea\ASP.NET\Closet\bin\Closet.dll
+D:\newIdea\ASP.NET\Closet\bin\Closet.pdb
+D:\newIdea\ASP.NET\Closet\bin\BAL.dll
+D:\newIdea\ASP.NET\Closet\bin\BEL.dll
+D:\newIdea\ASP.NET\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\newIdea\ASP.NET\Closet\bin\DAL.dll
+D:\newIdea\ASP.NET\Closet\bin\BAL.pdb
+D:\newIdea\ASP.NET\Closet\bin\BEL.pdb
+D:\newIdea\ASP.NET\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\newIdea\ASP.NET\Closet\bin\DAL.pdb
+D:\newIdea\ASP.NET\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+D:\newIdea\ASP.NET\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+D:\newIdea\ASP.NET\Closet\obj\Debug\Closet.dll
+D:\newIdea\ASP.NET\Closet\obj\Debug\Closet.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\Closet.dll.config
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\Closet.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\Closet.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\BAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\BEL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\DAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\BAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\BEL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\bin\DAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\obj\Debug\Closet.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\obj\Debug\Closet.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\Closet.dll.config
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\Closet.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\Closet.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\BAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\BEL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\DAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\BAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\BEL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OR\Desktop\New folder (9)\Closet\bin\DAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\obj\Debug\Closet.csprojResolveAssemblyReference.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\obj\Debug\Closet.csproj.CoreCompileInputs.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\obj\Debug\Closet.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\obj\Debug\Closet.pdb

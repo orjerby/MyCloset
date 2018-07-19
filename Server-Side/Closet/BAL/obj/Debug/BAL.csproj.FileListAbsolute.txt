@@ -1,0 +1,70 @@
+c:\Users\OR\source\repos\Closet\BAL\bin\Debug\BAL.dll
+c:\Users\OR\source\repos\Closet\BAL\bin\Debug\BAL.pdb
+c:\Users\OR\source\repos\Closet\BAL\bin\Debug\BEL.dll
+c:\Users\OR\source\repos\Closet\BAL\bin\Debug\DAL.dll
+c:\Users\OR\source\repos\Closet\BAL\bin\Debug\BEL.pdb
+c:\Users\OR\source\repos\Closet\BAL\bin\Debug\DAL.pdb
+c:\Users\OR\source\repos\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+c:\Users\OR\source\repos\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+c:\Users\OR\source\repos\Closet\BAL\obj\Debug\BAL.dll
+c:\Users\OR\source\repos\Closet\BAL\obj\Debug\BAL.pdb
+C:\try\t\Closet\Closet\BAL\bin\Debug\BAL.dll
+C:\try\t\Closet\Closet\BAL\bin\Debug\BAL.pdb
+C:\try\t\Closet\Closet\BAL\bin\Debug\BEL.dll
+C:\try\t\Closet\Closet\BAL\bin\Debug\DAL.dll
+C:\try\t\Closet\Closet\BAL\bin\Debug\BEL.pdb
+C:\try\t\Closet\Closet\BAL\bin\Debug\DAL.pdb
+C:\try\t\Closet\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\try\t\Closet\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\try\t\Closet\Closet\BAL\obj\Debug\BAL.dll
+C:\try\t\Closet\Closet\BAL\obj\Debug\BAL.pdb
+D:\t\Closet\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\t\Closet\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\t\Closet\Closet\BAL\obj\Debug\BAL.dll
+D:\t\Closet\Closet\BAL\obj\Debug\BAL.pdb
+D:\t\Closet\Closet\BAL\bin\Debug\BAL.dll
+D:\t\Closet\Closet\BAL\bin\Debug\BAL.pdb
+D:\t\Closet\Closet\BAL\bin\Debug\BEL.dll
+D:\t\Closet\Closet\BAL\bin\Debug\DAL.dll
+D:\t\Closet\Closet\BAL\bin\Debug\BEL.pdb
+D:\t\Closet\Closet\BAL\bin\Debug\DAL.pdb
+C:\Closet\ASP.NET\Closet\BAL\bin\Debug\BAL.dll
+C:\Closet\ASP.NET\Closet\BAL\bin\Debug\BAL.pdb
+C:\Closet\ASP.NET\Closet\BAL\bin\Debug\BEL.dll
+C:\Closet\ASP.NET\Closet\BAL\bin\Debug\DAL.dll
+C:\Closet\ASP.NET\Closet\BAL\bin\Debug\BEL.pdb
+C:\Closet\ASP.NET\Closet\BAL\bin\Debug\DAL.pdb
+C:\Closet\ASP.NET\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Closet\ASP.NET\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Closet\ASP.NET\Closet\BAL\obj\Debug\BAL.dll
+C:\Closet\ASP.NET\Closet\BAL\obj\Debug\BAL.pdb
+D:\newIdea\ASP.NET\Closet\BAL\bin\Debug\BAL.dll
+D:\newIdea\ASP.NET\Closet\BAL\bin\Debug\BAL.pdb
+D:\newIdea\ASP.NET\Closet\BAL\bin\Debug\BEL.dll
+D:\newIdea\ASP.NET\Closet\BAL\bin\Debug\DAL.dll
+D:\newIdea\ASP.NET\Closet\BAL\bin\Debug\BEL.pdb
+D:\newIdea\ASP.NET\Closet\BAL\bin\Debug\DAL.pdb
+D:\newIdea\ASP.NET\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\newIdea\ASP.NET\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\newIdea\ASP.NET\Closet\BAL\obj\Debug\BAL.dll
+D:\newIdea\ASP.NET\Closet\BAL\obj\Debug\BAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\bin\Debug\BAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\bin\Debug\BAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\bin\Debug\BEL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\bin\Debug\DAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\bin\Debug\BEL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\bin\Debug\DAL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\obj\Debug\BAL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BAL\obj\Debug\BAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\bin\Debug\BAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\bin\Debug\BAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\bin\Debug\BEL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\bin\Debug\DAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\bin\Debug\BEL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\bin\Debug\DAL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\obj\Debug\BAL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\BAL\obj\Debug\BAL.pdb

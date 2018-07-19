@@ -1,0 +1,36 @@
+c:\Users\OR\source\repos\Closet\BEL\bin\Debug\BEL.dll
+c:\Users\OR\source\repos\Closet\BEL\bin\Debug\BEL.pdb
+c:\Users\OR\source\repos\Closet\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+c:\Users\OR\source\repos\Closet\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+c:\Users\OR\source\repos\Closet\BEL\obj\Debug\BEL.dll
+c:\Users\OR\source\repos\Closet\BEL\obj\Debug\BEL.pdb
+D:\t\Closet\Closet\BEL\bin\Debug\BEL.dll
+D:\t\Closet\Closet\BEL\bin\Debug\BEL.pdb
+D:\t\Closet\Closet\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\t\Closet\Closet\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\t\Closet\Closet\BEL\obj\Debug\BEL.dll
+D:\t\Closet\Closet\BEL\obj\Debug\BEL.pdb
+C:\Closet\ASP.NET\Closet\BEL\bin\Debug\BEL.dll
+C:\Closet\ASP.NET\Closet\BEL\bin\Debug\BEL.pdb
+C:\Closet\ASP.NET\Closet\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Closet\ASP.NET\Closet\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Closet\ASP.NET\Closet\BEL\obj\Debug\BEL.dll
+C:\Closet\ASP.NET\Closet\BEL\obj\Debug\BEL.pdb
+D:\newIdea\ASP.NET\Closet\BEL\bin\Debug\BEL.dll
+D:\newIdea\ASP.NET\Closet\BEL\bin\Debug\BEL.pdb
+D:\newIdea\ASP.NET\Closet\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\newIdea\ASP.NET\Closet\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\newIdea\ASP.NET\Closet\BEL\obj\Debug\BEL.dll
+D:\newIdea\ASP.NET\Closet\BEL\obj\Debug\BEL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BEL\bin\Debug\BEL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BEL\bin\Debug\BEL.pdb
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BEL\obj\Debug\BEL.dll
+C:\Users\OR\Downloads\ASP.NET-20180611T203630Z-001\ASP.NET\Closet\BEL\obj\Debug\BEL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\BEL\bin\Debug\BEL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\BEL\bin\Debug\BEL.pdb
+C:\Users\OR\Desktop\New folder (9)\Closet\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\OR\Desktop\New folder (9)\Closet\BEL\obj\Debug\BEL.dll
+C:\Users\OR\Desktop\New folder (9)\Closet\BEL\obj\Debug\BEL.pdb
