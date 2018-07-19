@@ -1,4 +1,4 @@
-# MyCloset-App-in-React-Native-React
+# MyCloset-App-in-React-Native-Redux
 My Full Stack final project
 
 ### DEMO
