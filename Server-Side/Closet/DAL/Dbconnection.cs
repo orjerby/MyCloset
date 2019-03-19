@@ -16,7 +16,7 @@ namespace DAL
     public class Dbconnection
     {
 
-        static private SqlConnection con = new SqlConnection(@"Data Source=185.60.170.14;Integrated Security=False;User ID=SITE05;Password=He?f9a86;");
+        static private SqlConnection con = new SqlConnection(@"Data Source=185.60.170.14;Integrated Security=False;User ID=SITE05;Password=yourpassword;");
 
         static private SqlConnection getCon()
         {
