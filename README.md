@@ -13,7 +13,7 @@ An clothes app where you create a list of clothes which you have in real life. Y
 * Create Web Services and call them using AJAX
 * Upload an image to the server
 * Use transactions in ASP.net to prevent files issues
-* Implement 3-Tier Architecture (Presentation Tier, Application Tier, Tier and Data Tier)
+* Implement 3-Tier Architecture (Presentation Tier, Application Tier and Data Tier)
 
 # DEMO
 https://youtu.be/0yqghYhr4uc
